@@ -1,10 +1,7 @@
 # ⭐ GRID DEVIATION – DEEP LEARNING MODEL
 ### 🔮 *Predicting Power Grid Deviation using XGBoost + ML Pipelines*
 
-<!-- Animated banner: replace this GIF URL with your own later -->
-<p align="center">
-  <img src="https://share.google/images/po5sy11pq1UTRR9VO" alt="project-banner" width="820"/>
-</p>
+
 
 ---
 
