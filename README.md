@@ -226,5 +226,7 @@ I can provide:
 - a professional `.gitignore`.
 
 Just tell me!
-# Linkedin :- https://www.linkedin.com/in/nishant-kumar-92b07b381/
+### 🔗 Connect With Me  
+<a href="https://www.linkedin.com/in/nishant-kumar-92b07b381/" target="_blank">LinkedIn Profile</a>
+
 
