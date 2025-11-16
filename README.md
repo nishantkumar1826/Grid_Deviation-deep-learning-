@@ -3,7 +3,7 @@
 
 <!-- Animated banner: replace this GIF URL with your own later -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="animated-banner" width="820"/>
+  <img src="https://share.google/images/po5sy11pq1UTRR9VO" width="820"/>
 </p>
 
 ---
