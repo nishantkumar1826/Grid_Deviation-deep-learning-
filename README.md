@@ -199,42 +199,6 @@ Saved as **submission.csv**
 
 ---
 
-# 🎞️ ADDING ANIMATIONS TO THE README
-
-### Example: Inline Animated SVG  
-Create a file named `assets/animated_bar.svg`:
-
-```svg
-<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0b132b"/>
-  <g font-family="sans-serif" font-size="20" fill="#fff">
-    <text x="20" y="40">Training Progress</text>
-  </g>
-  <rect x="20" y="60" width="500" height="20" rx="10" fill="#1f7a8c"/>
-  <rect x="20" y="60" width="0" height="20" rx="10" fill="#ffd166">
-    <animate attributeName="width" from="0" to="500" dur="3s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-```
-
-Embed it:
-
-```markdown
-![training-animation](assets/animated_bar.svg)
-```
-
-### Example: Add GIFs (recommended)
-
-```markdown
-<p align="center">
-  <img src="assets/training.gif" width="800"/>
-</p>
-```
-
-(GIF must be stored inside repository.)
-
----
-
 # 🛠 FUTURE IMPROVEMENTS
 
 - Hyperparameter tuning (Optuna)
@@ -262,3 +226,5 @@ I can provide:
 - a professional `.gitignore`.
 
 Just tell me!
+# Linkedin :- https://www.linkedin.com/in/nishant-kumar-92b07b381/
+
