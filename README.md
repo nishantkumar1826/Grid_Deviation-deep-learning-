@@ -227,6 +227,6 @@ I can provide:
 
 Just tell me!
 ### 🔗 Connect With Me  
-<a href="https://www.linkedin.com/in/nishant-kumar-92b07b381/" target="_blank">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/nishant-kumar-92b07b381/" target="_blank">Nishant</a>
 
 
